@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Navbar from "./layout/Navbar";
+import Navbar from ". /components/layout/Navbar";
 export default {
   name: "app",
   components: {
